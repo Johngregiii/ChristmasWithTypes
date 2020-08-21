@@ -11,7 +11,7 @@ namespace ChristmasWithTypes
             var xmasDay = Christmas.Day.thursday;
 
             //TODO set Santa's name to Kris Kringle
-            string Santa = "kris kringle";
+            xmas.Santa = "kris kringle";
 
             //TODO Insert 3 presents you would like for xmas.  They must be strings
             xmas.Presents =  new string[]{"Ferrari", "bulldog", "jetski",}; 
